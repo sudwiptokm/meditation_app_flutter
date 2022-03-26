@@ -111,7 +111,7 @@ class ProfileInfo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(children: const [
       Text(
-        "Alex Monroe",
+        "Alex Monroe.",
         textAlign: TextAlign.center,
         style: TextStyle(
             color: Colors.black, fontWeight: FontWeight.w600, fontSize: 30),
